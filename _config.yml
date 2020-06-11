@@ -1,4 +1,3 @@
-theme: minima
 title: Harrison Wong's Website
 author: Harrison Wong
 email: your-email@domain.com
@@ -7,5 +6,5 @@ description: 3 things I'm Proud of: I passed Cisnero's class, I passed Mr. Cohen
 # social links
 instagram_username: harrisonmwong
 
-
+theme: minima
 show_excerpts: true # set to false to remove excerpts on the homepage
