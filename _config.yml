@@ -6,5 +6,5 @@ description: 3 things I'm Proud of: I passed eleventh grade, I passed first grad
 # social links
 instagram_username: harrisonmwong
 
-theme: minima
+theme: jekyll-theme-slate
 show_excerpts: true # set to false to remove excerpts on the homepage
